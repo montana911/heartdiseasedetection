@@ -648,5 +648,5 @@ with tab_about:
     ---
 
     *Cardiovascular Risk Prediction Using a Hybrid Ensemble Learning Approach*
-    *Bachelor Thesis, Computer Science, 2024-2025*
+    *Bachelor Thesis, Computer Science, 2025-2026*
     """)
